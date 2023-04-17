@@ -1,6 +1,4 @@
-Building a PC from Scratch
-
-![IMG_5848](https://user-images.githubusercontent.com/98995556/232567279-289a8cc8-f8db-4715-8ccf-3dadb44f7aff.JPG)
+<b> Building a PC from Scratch </b>
 
 I was so excited to build my own gaming and editing PC from start to finish! The process of building a PC was familiar to me, but I decided to take it an extra step and go through the entire setup process- from spending countless hours looking up hardware reviews/suggestions, best affordable PC builds, and how to install computer parts into an empty tower. Despite how long it took, it TOTALLY worth it in the end and it's one of my favorite PC's so far. I uploaded and edited my setup experience on Youtube if you want to check it out!
 
@@ -17,3 +15,5 @@ https://www.newegg.com/amd-ryzen-5-56...
 https://www.amazon.com/dp/B07QS6MG8B?...
 
 Total cost: $740-$750
+
+![IMG_5848](https://user-images.githubusercontent.com/98995556/232567279-289a8cc8-f8db-4715-8ccf-3dadb44f7aff.JPG)
