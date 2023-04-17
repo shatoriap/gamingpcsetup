@@ -13,7 +13,7 @@ https://www.newegg.com/amd-ryzen-5-56... <br>
 - Network Card: Ubit Tri-Band 5400Mbps WiFi 6E 6GHz PCIe WiFi Card https://www.amazon.com/dp/B08NVR8M8X?... <br>
 - Keyboard & Mouse: Havit Mechanical Keyboard and Mouse Combo RGB
 https://www.amazon.com/dp/B07QS6MG8B?... <br>
-
+<br>
 <b> Total cost: $740-$750 <b>
 <br>
 ![IMG_5848](https://user-images.githubusercontent.com/98995556/232567279-289a8cc8-f8db-4715-8ccf-3dadb44f7aff.JPG)
