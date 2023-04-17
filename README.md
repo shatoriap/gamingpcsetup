@@ -17,4 +17,4 @@ https://www.amazon.com/dp/B07QS6MG8B?... <br>
 <b> Total cost: $740-$750 <b>
 <br>
   
-![IMG_5848](https://user-images.githubusercontent.com/98995556/232567279-289a8cc8-f8db-4715-8ccf-3dadb44f7aff.JPG)
+![IMG_5848](https://user-images.githubusercontent.com/98995556/232568424-1c0a5700-e0c0-459c-9ac9-71101ba4186f.JPG)
